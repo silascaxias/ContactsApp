@@ -6,9 +6,6 @@ import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
 import com.example.contactsapp.model.Contact
 import com.example.contactsapp.repository.ContactRepository
-import kotlinx.coroutines.Deferred
-import kotlinx.coroutines.async
-import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.launch
 
 /**

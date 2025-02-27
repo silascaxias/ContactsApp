@@ -57,7 +57,6 @@ import com.example.contactsapp.model.Contact
 import com.example.contactsapp.repository.ContactRepository
 import com.example.contactsapp.ui.theme.GreenJC
 import com.example.contactsapp.viewmodel.ContactViewModel
-import com.example.contactsapp.viewmodel.ContactViewModelFactory
 
 /**
  * Utils
